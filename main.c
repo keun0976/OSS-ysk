@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-  preintf("Open Source SW project\n");
+  printf("Open Source SW project\n");
+  printf("First Github Tranning");
   return 0;
 }
